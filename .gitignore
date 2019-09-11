@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+dist
+build
+*-error.log
+*-debug.log
+.vscode
+v
+.DS_Store
+tmp
+artifacts
+.cache
+public
+.npmrc
