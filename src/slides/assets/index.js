@@ -1,23 +1,25 @@
-import CAnalyticsApology from './CAnalyticsApology.png';
+import Cables from './Cables.png';
+import Chirper from './Chirper.png';
 import Dropbox from './Dropbox.png';
-import GmailIssues from './GmailIssues.png';
 import NetNeutrality from './NetNeutrality.png';
 import SlackDown from './SlackDown.png';
 import CAnalyticsPolitics from './CAnalyticsPolitics.png';
-import Etsy from './Etsy.png';
-import InstagramFunny from './InstagramFunny.png';
+import JIRA from './JIRA.png';
+import InternetFreedomIndex from './InternetFreedomIndex.png';
+import NYCMeshLogo from './NYC_Mesh.png';
+import NYCMeshMap from './NYC_Mesh_Map.png';
 import PhilipsHue from './PhilipsHue.png';
-import Wikipedia from './Wikipedia.png';
 
 export default {
-  CAnalyticsApology,
+  Cables,
+  Chirper,
   Dropbox,
-  GmailIssues,
   NetNeutrality,
   SlackDown,
   CAnalyticsPolitics,
-  Etsy,
-  InstagramFunny,
+  InternetFreedomIndex,
+  JIRA,
+  NYCMeshLogo,
+  NYCMeshMap,
   PhilipsHue,
-  Wikipedia,
 };

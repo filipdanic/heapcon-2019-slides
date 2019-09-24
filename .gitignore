@@ -12,3 +12,4 @@ artifacts
 .cache
 public
 .npmrc
+.idea/workspace.xml
