@@ -13,8 +13,6 @@ const slides = [
   TitleSlide('Middleman Problem'),
   ImageSlide(assets.InternetFreedomIndex),
   ImageSlide(assets.NetNeutrality),
-  TitleSlide('A ⇒ B'),
-  TitleSlide('A ⇒ X ⇒ Y ⇒ Z ⇒ B'),
   EmojiSlide('🔗 📑'),
   EmojiSlide('Facebook'),
   ImageSlide(assets.CAnalyticsPolitics),
