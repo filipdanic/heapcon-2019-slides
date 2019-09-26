@@ -10,6 +10,5 @@ v
 tmp
 artifacts
 .cache
-public
 .npmrc
 .idea
