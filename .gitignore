@@ -12,3 +12,4 @@ artifacts
 .cache
 .npmrc
 .idea
+.dat
